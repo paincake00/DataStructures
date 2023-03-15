@@ -10,7 +10,7 @@ public class SimpleLinkedList<T> implements Iterable<T> {
         }
     }
 
-    private class SimpleLinkedListNode<T> {
+    private class SimpleLinkedListNode< T> {
         public T value;
         public SimpleLinkedListNode<T> next;
 
