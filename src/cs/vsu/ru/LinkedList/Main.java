@@ -1,5 +1,6 @@
 package cs.vsu.ru.LinkedList;
 
+//start here
 public class Main {
     public static void main(String[] args) throws Exception {
         SimpleLinkedList<Integer> list = new SimpleLinkedList<>();
